@@ -6,7 +6,7 @@ Software Engineer
 
 I studied engineering at Muğla Sıtkı Koçman University for 4 years, mainly based on C# programming language.I have developed many projects with C#, Python and Javascript.I graduated after doing two summer internships and one long-term internship. I want to devote myself to software development and work in this field for many years
 
-* 🌍  I'm based in Türkiye
+* 🌍  I'm based in Turkey
 * 🖥️  See my portfolio at [linkedin](http://www.linkedin.com/in/emrullahyilmazz/)
 * ✉️  You can contact me at [korater583@gmail.com](mailto:korater583@gmail.com)
 
